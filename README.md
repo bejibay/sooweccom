@@ -1,3 +1,5 @@
 # sooweccom
-It is lovely for me to fall in love with writing programming. This will really enhance my e-commerce and web building projects.
-First learning experience with Github
+Soowec.com Website Creation
+Soowec was created out of excitement to learn web development
+Soowec.com was created with its own cms built with PHP, CSS and API's
+
